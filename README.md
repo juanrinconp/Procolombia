@@ -4,7 +4,7 @@
 
 2. Automatización del Tablero Como Vamos para la vicepresidencia de Turismo
 
-3. Automatización del Tablero Como Vamos para la vicepresidencia de Inversión
+3. Automatización del Tablero Como Vamos para la vicepresidencia de Inversión (Incompleto)
 
 4. Automatización Informe semanal
 
