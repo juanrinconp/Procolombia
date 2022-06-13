@@ -6,7 +6,7 @@
 
 3.Automatización del Tablero Como Vamos para la vicepresidencia de Inversión
 
-4 Automatización Informe semanal
+4. Automatización Informe semanal
 
 5. Automatización Insumos Planes Sectoriales
 
