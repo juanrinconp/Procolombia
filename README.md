@@ -1,4 +1,4 @@
-# Automatización Informes Procolombia y Proyecto
+# Proyectos Procolombia
 
 1. Automatización del Tablero Como Vamos para la vicepresidencia de Exportaciones
 
@@ -10,5 +10,5 @@
 
 5. Automatización Insumos Planes Sectoriales
 
-6. Proyecto VAR del efecto de las exportaciones sobre el PIB Colombiano
+6. Proyecto VAR del efecto de las exportaciones de Procolombia sobre el PIB Colombiano
 
